@@ -4,6 +4,6 @@ var randomImages="dice"+randomnumber1+".png";
 
 var randomImagesSource="Images"+randomImages;
 
-var image1=document.querySelectorAll("img1"),[0];
+var image1=document.querySelectorAll("img1")[0];
 
 image1.setAttribute("src" , randomImagesSource);
