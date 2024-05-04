@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for your repository:
-
----
 
 # Simple Dice Game
 
