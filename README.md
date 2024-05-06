@@ -7,6 +7,8 @@ This is a simple dice game implemented using HTML, CSS, and JavaScript. The game
 
 - When the page is refreshed, two dice are rolled for each player.
 - If the value of Dice 1 is greater than Dice 2, Player 1 wins.
+   ![Screenshot 2024-05-05 013620](https://github.com/sadique21hs/Dice/assets/152019380/ec002598-6bd7-41d7-98d8-d1efd0613ea1)
+
 - If the value of Dice 2 is greater than Dice 1, Player 2 wins.
 - If both dice have the same value, it's a draw.
 
