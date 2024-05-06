@@ -10,6 +10,7 @@ This is a simple dice game implemented using HTML, CSS, and JavaScript. The game
    ![Screenshot 2024-05-05 013620](https://github.com/sadique21hs/Dice/assets/152019380/ec002598-6bd7-41d7-98d8-d1efd0613ea1)
 
 - If the value of Dice 2 is greater than Dice 1, Player 2 wins.
+  ![Screenshot 2024-05-05 013634](https://github.com/sadique21hs/Dice/assets/152019380/375af39b-a9c2-4016-b22d-daa8c2f57da5)
 - If both dice have the same value, it's a draw.
 
 ## How to Play
