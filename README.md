@@ -25,7 +25,7 @@ This is a simple dice game implemented using HTML, CSS, and JavaScript. The game
 2. Open the `index.html` file in your web browser.
 
 3. Refresh the page to play a new round of the game.
-
+## Here Is the [link](https://sadique21hs.github.io/Dice/)
 ## Files Included
 
 - `index.html`: The main HTML file containing the game interface and logic.
